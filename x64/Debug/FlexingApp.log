@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(551,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (FlexingApp.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\ja\source\repos\FlexingApp\FlexingApp\Main.cpp(70,40): warning C4101: 'e': unreferenced local variable
+  DataPoint.cpp
+C:\Users\ja\source\repos\FlexingApp\FlexingApp\DataPoint.cpp(8,66): error C2065: 'creationTime': undeclared identifier
+  MetricStore.cpp
+  Storage.cpp
+  Generating Code...

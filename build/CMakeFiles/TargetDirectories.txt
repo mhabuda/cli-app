@@ -1,0 +1,3 @@
+/mnt/c/Users/ja/source/repos/FlexingApp/FlexingApp/build/CMakeFiles/Main.dir
+/mnt/c/Users/ja/source/repos/FlexingApp/FlexingApp/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ja/source/repos/FlexingApp/FlexingApp/build/CMakeFiles/rebuild_cache.dir

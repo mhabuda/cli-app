@@ -1,0 +1,1 @@
+/usr/bin/c++ -fsanitize=address -g -Wl,--dependency-file=CMakeFiles/Main.dir/link.d CMakeFiles/Main.dir/Main.cpp.o CMakeFiles/Main.dir/DataPoint.cpp.o CMakeFiles/Main.dir/MetricStore.cpp.o CMakeFiles/Main.dir/Storage.cpp.o -o Main
